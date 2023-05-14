@@ -4,6 +4,8 @@
      <p>Blacklight will scan a website and reveal the specific user-tracking technologies on the site.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
+    <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
+     <p>The Complete How-To Guide for 2023.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
     <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
