@@ -12,6 +12,8 @@
      <p>The Complete How-To Guide for 2023.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
+    <li><a href="https://privacytests.org/">Privacy Test</a></li> 
+     <p>Open-source tests of web browser privacy.</p>
     <li><a href="https://www.securemessagingapps.com/">Secure Messaging Apps Comparison </a></li>
      <p>Use this website to compare Secure Messaging Apps.</p>
     <li><a href="https://tosdr.org/">Terms Of Service</a></li> 
