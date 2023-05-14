@@ -12,10 +12,12 @@
      <p>The Complete How-To Guide for 2023.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
-    <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
-     <p>What Is My Browser, tells you what browser and version you have, the type of device you are using, which operating system you're using, and your settings for important things such as JavaScript and Cookies.</p>
+    <li><a href="https://www.securemessagingapps.com/">Secure Messaging Apps Comparison </a></li>
+     <p>Use this website to compare Secure Messaging Apps.</p>
     <li><a href="https://tosdr.org/">Terms Of Service</a></li> 
      <p>Did you read and agree to the TOS of a website, check out their TOS here, if you didn't.</p>
     <li><a href="https://vehicleprivacyreport.com/">Vehicle Privacy Report</a></li>
      <p>Get privacy car facts about your vehicle by searching your VIN.</p>
+    <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
+     <p>What Is My Browser, tells you what browser and version you have, the type of device you are using, which operating system you're using, and your settings for important things such as JavaScript and Cookies.</p>
 </ul>
