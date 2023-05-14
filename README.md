@@ -1,5 +1,7 @@
 # Privacy-Tools
 <ul>
+    <li><a href="https://2fa.directory/int/">2FA Directory</a></li>
+     <p>Search the directory to see which website use 2FA.</p>
     <li><a href="https://themarkup.org/blacklight">Blacklight</a></li>
      <p>Blacklight will scan a website and reveal the specific user-tracking technologies on the site.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
