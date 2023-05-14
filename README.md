@@ -1,4 +1,4 @@
-# Privacy-Tools
+# Privacy-Infosec-Tools
 <ul>
     <li><a href="https://2fa.directory/int/">2FA Directory</a></li>
      <p>Search the directory to see which website use 2FA.</p>
