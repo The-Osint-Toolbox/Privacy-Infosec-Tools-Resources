@@ -1,4 +1,8 @@
-# Privacy-Infosec-Tools
+# Privacy-Infosec-Tools-Resources
+<p align="center">
+      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+    </p>You can find links to Privacy & OPSEC tools and resources. Many I use or have used however this does not consitute any endorsment or recommendation.</p>
+<br></br>
 <ul>
     <li><a href="https://2fa.directory/int/">2FA Directory</a></li>
      <p>Search the directory to see which website use 2FA.</p>
@@ -10,6 +14,8 @@
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
     <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
      <p>The Complete How-To Guide for 2023.</p> 
+    <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
+     <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
     <li><a href="https://privacytests.org/">Privacy Test</a></li> 
