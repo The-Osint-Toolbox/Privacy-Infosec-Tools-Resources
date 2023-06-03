@@ -1,7 +1,7 @@
 # Privacy-Infosec-Tools-Resources
 <p align="center">
       <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
-    </p>You can find links to Privacy & OPSEC tools and resources. Many I use or have used however this does not consitute any endorsment or recommendation.</p>
+    </p>You can find links to Privacy & OPSEC tools and resources. Many I use or have used however this does not constitute any endorsment or recommendation.</p>
 <br></br>
 <table>
      <tr>
