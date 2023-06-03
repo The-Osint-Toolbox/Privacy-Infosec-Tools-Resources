@@ -32,6 +32,8 @@
      </tr>
 </table>
     <ul>
+      <li><a href="https://brave.com/">Brave Browser</a></li>  
+       <p>Brave is a free and open-source web browser developed by Brave Software, Inc.</p>
       <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
        <p>The Complete How-To Guide for 2023.</p> 
       <li><a href="https://privacytests.org/">Privacy Tests</a></li>
