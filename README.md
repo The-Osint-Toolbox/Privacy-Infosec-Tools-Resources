@@ -21,8 +21,6 @@
      <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
-    <li><a href="https://www.securemessagingapps.com/">Secure Messaging Apps Comparison </a></li>
-     <p>Use this website to compare Secure Messaging Apps.</p>
     <li><a href="https://tosdr.org/">Terms Of Service</a></li> 
      <p>Did you read and agree to the TOS of a website, check out their TOS here, if you didn't.</p>
     <li><a href="https://vehicleprivacyreport.com/">Vehicle Privacy Report</a></li>
@@ -68,3 +66,28 @@
         <li><a href="https://tutanota.com/">Tutanota</a></li> 
          <p>Tutanota is an end-to-end encrypted email app and a freemium secure email service.</p>
       </ul>
+      <br></br>
+       <table>
+        <tr>
+        <td>Messaging Apps</td>
+        </tr>
+      </table>
+      <ul>
+        <li><a href="https://briarproject.org/">Briar</a></li>
+         <p>Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications.</p>
+        <li><a href="https://element.io/">Element</a></li>
+         <p>Element is a free and open-source software instant messaging client implementing the Matrix protocol.</li>
+        <li><a href="https://mysudo.com/">My Sudo</a></li> 
+         <p>MySudo allows you to create and manage multiple Sudos; each with a phone number, handle and email address.</p>
+        <li><a href="https://getsession.org/">Session</a></li> 
+         <p>Session is a cross-platform end-to-end encrypted instant messaging application.</p>
+        <li><a href="https://www.securemessagingapps.com/">Secure Messaging Apps Comparison</a></li>
+         <p>Use this website to compare Secure Messaging Apps.</p>
+        <li><a href="https://signal.org/">Signal</a></li> 
+         <p>Signal is an encrypted messaging service for instant messaging, voice, and video calls.</p>
+        <li><a href="https://threema.ch/en">Threema</a></li> 
+         <p>Threema is a paid cross-platform encrypted instant messaging app developed by Threema GmbH in Switzerland.</p>
+        <li><a href="https://wire.com/en/">Wire</a></li> 
+         <p>Wire is an encrypted communication and collaboration app created by Wire Swiss.</p>
+      </ul>
+      <br></br>
