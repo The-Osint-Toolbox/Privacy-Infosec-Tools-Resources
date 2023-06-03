@@ -47,3 +47,19 @@
       <li><a href="https://www.torproject.org/">TOR</a></li> 
        <p>Tor, short for "The Onion Router," is free and open-source software for enabling anonymous communication. It directs Internet traffic worldwide.</p>
     </ul>
+    <br></br>       
+    <table>
+        <tr>
+        <td>Email</td>
+        </tr>
+      </table>
+      <ul>
+        <li><a href="https://anonaddy.com/">Anon Addy</a></li>
+         <p>Anonymous Email forwarding, create unlimited Email aliases for free.</p>
+        <li><a href="https://proton.me/mail">Proton MAil</a></li>
+         <p>Proton Mail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland.</p>
+        <li><a href="https://simplelogin.io/">Simple Login</a></li> 
+         <p>Receive and send emails anonymously.</p>
+        <li><a href="https://tutanota.com/">Tutanota</a></li> 
+         <p>Tutanota is an end-to-end encrypted email app and a freemium secure email service.</p>
+      </ul>
