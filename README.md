@@ -32,6 +32,8 @@
      </tr>
 </table>
     <ul>
+      <li><a href="https://www.apple.com/safari/">Safari</a></li>  
+       <p>Safari is a web browser developed by Apple. It is built into Apple's operating systems.</p>
       <li><a href="https://brave.com/">Brave Browser</a></li>  
        <p>Brave is a free and open-source web browser developed by Brave Software, Inc.</p>
       <li><a href="https://www.mozilla.org/en-GB/firefox/">Firefox Browser</a></li> 
