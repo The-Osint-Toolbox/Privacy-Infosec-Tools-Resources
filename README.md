@@ -3,6 +3,11 @@
       <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
     </p>You can find links to Privacy & OPSEC tools and resources. Many I use or have used however this does not consitute any endorsment or recommendation.</p>
 <br></br>
+<table>
+     <tr>
+        <td>General</td>
+     </tr>
+</table>
 <ul>
     <li><a href="https://2fa.directory/int/">2FA Directory</a></li>
      <p>Search the directory to see which website use 2FA.</p>
