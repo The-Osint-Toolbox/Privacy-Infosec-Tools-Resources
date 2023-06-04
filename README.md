@@ -91,3 +91,19 @@
          <p>Wire is an encrypted communication and collaboration app created by Wire Swiss.</p>
       </ul>
       <br></br>
+      <table>
+        <tr>
+        <td>Operating Systems</td>
+        </tr>
+      </table>
+      <ul>
+       <li><a href="https://pop.system76.com/">PopOS</a></li>
+        <p>Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu.</p>
+       <li><a href="https://tails.boum.org/">Tails OS</a></li> 
+        <p>Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.</p>
+       <li><a href="https://ubuntu.com/">Ubuntu OS</a></li> 
+        <p>Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software</p>
+       <li><a href="https://www.whonix.org/">Whonix OS</a></li> 
+        <p>Whonix (HOO-niks) is a Kicksecure–based security hardened Linux distribution. Its main goals are to provide strong privacy and anonymity on the Internet</p>
+     </ul>
+      <br></br>
