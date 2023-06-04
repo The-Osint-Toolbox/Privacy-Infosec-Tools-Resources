@@ -102,8 +102,22 @@
        <li><a href="https://tails.boum.org/">Tails OS</a></li> 
         <p>Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.</p>
        <li><a href="https://ubuntu.com/">Ubuntu OS</a></li> 
-        <p>Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software</p>
+        <p>Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software.</p>
        <li><a href="https://www.whonix.org/">Whonix OS</a></li> 
-        <p>Whonix (HOO-niks) is a Kicksecure–based security hardened Linux distribution. Its main goals are to provide strong privacy and anonymity on the Internet</p>
+        <p>Whonix (HOO-niks) is a Kicksecure–based security hardened Linux distribution. Its main goals are to provide strong privacy and anonymity on the Internet.</p>
      </ul>
       <br></br>
+       <table>
+        <tr>
+        <td>Search Engines</td>
+        </tr>
+      </table>
+      <ul>
+        <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
+         <p>DuckDuckGo is a search engine designed to protect user privacy, while avoiding the skewing of search results.</p>
+        <li><a href="https://www.startpage.com/">Startpage</a></li> 
+         <p>Startpage is a Dutch search engine company that highlights privacy as its distinguishing feature.</p>
+        <li><a href="https://www.qwant.com/">Qwant</a></li>  
+         <p>Qwant is a French search engine launched in February 2013. Qwant claims to guarantee the privacy of its users by avoiding tracking them.</p>
+      </ul>
+        <br></br>
