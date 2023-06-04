@@ -115,9 +115,11 @@
       <ul>
         <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
          <p>DuckDuckGo is a search engine designed to protect user privacy, while avoiding the skewing of search results.</p>
-        <li><a href="https://www.startpage.com/">Startpage</a></li> 
-         <p>Startpage is a Dutch search engine company that highlights privacy as its distinguishing feature.</p>
         <li><a href="https://www.qwant.com/">Qwant</a></li>  
          <p>Qwant is a French search engine launched in February 2013. Qwant claims to guarantee the privacy of its users by avoiding tracking them.</p>
+        <li><a href="https://searx.thegpm.org/">Searx</a></li> 
+         <p>Searx is a free and open-source metasearch engine, with the aim of protecting the privacy of its users.</p>
+        <li><a href="https://www.startpage.com/">Startpage</a></li> 
+         <p>Startpage is a Dutch search engine company that highlights privacy as its distinguishing feature.</p>
       </ul>
         <br></br>
