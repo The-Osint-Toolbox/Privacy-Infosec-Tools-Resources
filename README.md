@@ -45,6 +45,8 @@
        <p>Safari is a web browser developed by Apple. It is built into Apple's operating systems.</p>
       <li><a href="https://brave.com/">Brave Browser</a></li>  
        <p>Brave is a free and open-source web browser developed by Brave Software, Inc.</p>
+      <li><a href="https://www.deviceinfo.me/">Device Info</a></li> 
+       <p>A web browser security testing, privacy testing, and troubleshooting tool.</p>
       <li><a href="https://www.mozilla.org/en-GB/firefox/">Firefox Browser</a></li> 
        <p>Mozilla Firefox, or simply Firefox, is a free and open-source web browser </p>
       <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
