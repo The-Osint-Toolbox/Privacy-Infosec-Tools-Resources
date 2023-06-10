@@ -23,6 +23,8 @@
      <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
+    <li><a href="https://www.phishtank.com/">Phish Tank.</a></li> 
+     <p>PhishTank is a collaborative clearing house for data and information about phishing on the Internet.</p>
     <li><a href="https://tosdr.org/">Terms Of Service</a></li> 
      <p>Did you read and agree to the TOS of a website, check out their TOS here, if you didn't.</p>
     <li><a href="https://vehicleprivacyreport.com/">Vehicle Privacy Report</a></li>
