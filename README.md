@@ -47,6 +47,8 @@
        <p>Mozilla Firefox, or simply Firefox, is a free and open-source web browser </p>
       <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
        <p>The Complete How-To Guide for 2023.</p> 
+      <li><a href="https://inteltechniques.com/logger/">Inteltechniques</a></li> 
+       <p>Custom IP Logger. check what information your Browser is telling others.</p>
       <li><a href="https://privacytests.org/">Privacy Tests</a></li>
        <p>Open-source tests of web browser privacy.</p>
       <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
