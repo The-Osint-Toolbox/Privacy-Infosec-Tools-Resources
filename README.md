@@ -79,6 +79,20 @@
          <p>Tutanota is an end-to-end encrypted email app and a freemium secure email service.</p>
       </ul>
       <br></br>
+         <table>
+        <tr>
+        <td>Maps</td>
+        </tr>
+      </table>
+      <ul>
+        <li><a href="https://www.magicearth.com/">Magic Earhh</a></li>
+         <p>Magic Earth, turn-by-turn navigation, OpenStreetMap, Crowd-Sourced Traffic, 3D maps, Satellite maps, Offline maps and Transit. Entirely free.</p>
+        <li><a href="https://organicmaps.app/">Organic Maps</a></li>
+         <p>Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data.</p>
+        <li><a href="https://osmand.net/">OsmAnd</a></li>  
+         <p>OsmAnd is a map and navigation app for Android and iOS. It uses the OpenStreetMap</p>
+      </ul>
+      <br></br>
        <table>
         <tr>
         <td>Messaging Apps</td>
