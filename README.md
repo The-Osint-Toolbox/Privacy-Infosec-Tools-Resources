@@ -21,6 +21,8 @@
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
      <p>Check if your email or phone is in a data breach.</p>
+    <li><a href="https://www.lifewire.com/turn-on-mobile-location-services-4156232">Lifewire</a></li>
+     <p>Basic intorduction into how location services work.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
     <li><a href="https://www.phishtank.com/">Phish Tank.</a></li> 
