@@ -67,7 +67,7 @@
     <br></br>       
     <table>
         <tr>
-        <td>Email</td>
+         <td>Email</td>
         </tr>
       </table>
       <ul>
@@ -151,3 +151,14 @@
          <p>Startpage is a Dutch search engine company that highlights privacy as its distinguishing feature.</p>
       </ul>
         <br></br>
+      <table>
+        <tr>
+          <td>Vehicle</td>
+        </tr>
+      </table> 
+      <ul>
+       <li><a href="https://foundation.mozilla.org/en/privacynotincluded/categories/cars/">Mozilla Foundation</a></li>
+         <p>Manufacturers privacy practice reviews.</p>
+       <li><a href="https://foundation.mozilla.org/en/privacynotincluded/articles/what-data-does-my-car-collect-about-me-and-where-does-it-go/">Mozilla Foundation</a></li>
+         <p>What does a vehicle collect about and what happens to your data.</p>
+     </ul>
