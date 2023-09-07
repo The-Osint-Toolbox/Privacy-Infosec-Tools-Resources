@@ -25,6 +25,8 @@
      <p>Basic intorduction into how location services work.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
      <p>LocateJS predicts your location by analyzing your connection and system data.</p>
+    <li><a href="https://foundation.mozilla.org/en/privacynotincluded/">Mozilla Foundation</a></li> 
+     <p>Keep up to date with the latest privacy news and blogs.</p>
     <li><a href="https://www.phishtank.com/">Phish Tank.</a></li> 
      <p>PhishTank is a collaborative clearing house for data and information about phishing on the Internet.</p>
     <li><a href="https://routersecurity.org/shodan.php">Router Security</a></li> 
