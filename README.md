@@ -61,6 +61,8 @@
        <p>The Complete How-To Guide for 2023.</p> 
       <li><a href="https://inteltechniques.com/logger/">Inteltechniques</a></li> 
        <p>Custom IP Logger. check what information your Browser is telling others.</p>
+      <li><a href="https://mullvad.net/en/help/install-mullvad-browser">Mullvad</a></li>
+       <p>The Mullvad Browser is a privacy-focused web browser developed in collaboration between Mullvad VPN and the Tor Project.</p>
       <li><a href="https://privacytests.org/">Privacy Tests</a></li>
        <p>Open-source tests of web browser privacy.</p>
       <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
