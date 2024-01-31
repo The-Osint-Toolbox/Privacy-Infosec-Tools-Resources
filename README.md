@@ -19,6 +19,8 @@
      <p>Tests whether your DNS queries and answers are encrypted.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
+    <li><a href="https://github.com/GONZOsint/fingerprinter">Fingerprinter</a></li>
+      <p>Web application designed to raise user awareness and fortify online identities against tracking techniques.</p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
      <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://www.lifewire.com/turn-on-mobile-location-services-4156232">Lifewire</a></li>
