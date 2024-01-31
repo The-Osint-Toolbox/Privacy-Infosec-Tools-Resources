@@ -19,8 +19,6 @@
      <p>Tests whether your DNS queries and answers are encrypted.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
-    <li><a href="https://github.com/GONZOsint/fingerprinter">Fingerprinter</a></li>
-      <p>Web application designed to raise user awareness and fortify online identities against tracking techniques.</p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
      <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://www.lifewire.com/turn-on-mobile-location-services-4156232">Lifewire</a></li>
@@ -55,6 +53,8 @@
        <p>Test your browser to see how well you are protected from tracking and fingerprinting:</p>
       <li><a href="https://www.deviceinfo.me/">Device Info</a></li> 
        <p>A web browser security testing, privacy testing, and troubleshooting tool.</p>
+      <li><a href="https://github.com/GONZOsint/fingerprinter">Fingerprinter</a></li>
+       <p>Web application designed to raise user awareness and fortify online identities against tracking techniques.</p>
       <li><a href="https://www.mozilla.org/en-GB/firefox/">Firefox Browser</a></li> 
        <p>Mozilla Firefox, or simply Firefox, is a free and open-source web browser </p>
       <li><a href="https://restoreprivacy.com/firefox-privacy/">Firefox Privacy</a></li> 
@@ -79,6 +79,8 @@
          <p>Anonymous Email forwarding, create unlimited Email aliases for free.</p>
         <li><a href="https://proton.me/mail">Proton MAil</a></li>
          <p>Proton Mail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland.</p>
+        <li><a href="https://skiff.com/mail">Skiff Mail</a></li>
+         <p>Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.</p>
         <li><a href="https://simplelogin.io/">Simple Login</a></li> 
          <p>Receive and send emails anonymously.</p>
         <li><a href="https://tutanota.com/">Tutanota</a></li> 
