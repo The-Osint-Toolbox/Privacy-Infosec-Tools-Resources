@@ -17,6 +17,8 @@
      <p>Fun website that demomstrates what information is captured when you visit a website.</p>
     <li><a href="https://www.cloudflare.com/ssl/encrypted-sni/">Cloudflare</a></li> 
      <p>Tests whether your DNS queries and answers are encrypted.</p>
+    <li><a href="https://digital-defense.io/">Digital Defense</a></li>
+     <p>Your guide to securing your digital life and protecting your privacy.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
