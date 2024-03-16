@@ -79,18 +79,35 @@
         </tr>
       </table>
       <ul>
-        <li><a href="https://anonaddy.com/">Anon Addy</a></li>
-         <p>Anonymous Email forwarding, create unlimited Email aliases for free.</p>
         <li><a href="https://proton.me/mail">Proton MAil</a></li>
          <p>Proton Mail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland.</p>
         <li><a href="https://skiff.com/mail">Skiff Mail</a></li>
          <p>Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.</p>
-        <li><a href="https://simplelogin.io/">Simple Login</a></li> 
-         <p>Receive and send emails anonymously.</p>
         <li><a href="https://tutanota.com/">Tutanota</a></li> 
          <p>Tutanota is an end-to-end encrypted email app and a freemium secure email service.</p>
       </ul>
       <br></br>
+      <table>
+        <tr>
+        <td>Email Aliases</td>
+        </tr>
+      </table>
+       <p>A word of caution in relation to Email Aliases, they may not be appropriate for, private or sensitive content as you are using a third party server. It is best to try and stay with an eco system if this is possible for Infosec purposes.</p>
+       <ul>
+        <li><a href="https://www.33mail.com/">33 Mail</a></li>
+         <p>Unlimited private email aliases.</p>
+        <li><a href="https://anonaddy.com/">Anon Addy</a></li>
+         <p>Anonymous Email forwarding, create unlimited Email aliases for free.</p>
+        <li><a href="https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/">DuckDuckGo</a></li>
+         <p>DuckDuckGo Email Protection conceals your email address with Duck Addresses.</p>
+        <li><a href="https://relay.firefox.com/">Firefox Relay</a></li>
+         <p>Protect your identity with secure phone and email masking.</p>
+        <li><a href="https://proton.me/blog/hide-my-email-aliases">Proton Mail</a></li>
+         <p>Protect your identity with hide-my-email aliases in Proton Mail.</p>
+        <li><a href="https://simplelogin.io/">Simple Login</a></li>
+         <p>Receive and send emails anonymously.</p>
+       <br></br>       
+       </ul>
          <table>
         <tr>
         <td>Maps</td>
