@@ -72,7 +72,20 @@
       <li><a href="https://www.torproject.org/">TOR</a></li> 
        <p>Tor, short for "The Onion Router," is free and open-source software for enabling anonymous communication. It directs Internet traffic worldwide.</p>
     </ul>
-    <br></br>       
+<table>
+  <tr>
+      <td>Digital Fingerprinting</td>
+    </tr>
+</table
+      <ul>
+         <li><a href="https://browserleaks.com/">BrowserLeaks</a></li>
+         <li><a href="https://coveryourtracks.eff.org/">Cover Your Tracks</a></li>
+         <li><a href="https://www.deviceinfo.me/">Device Info</a></li>
+         <li><a href="https://infosniper.net/">InfoSniper</a></li>
+         <li><a href="https://z0ccc.github.io/LocateJS/">Locate JS</a></li>
+         <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
+       </ul>        
+    <table>
     <table>
         <tr>
          <td>Email</td>
