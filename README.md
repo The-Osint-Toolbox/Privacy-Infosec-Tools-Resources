@@ -187,7 +187,9 @@
         <li><a href="https://freespoke.com//">FreeSpoke</a></li>
          <p>Freespoke is new kind of Search Engine, one that protects your privacy and does not censor content.</p>
         <li><a href="https://www.mojeek.com/">Mojeek</a></li> 
-         <p>Mojeek is a web search engine that provides unbiased, fast, and relevant search results combined with a no tracking privacy policy.</p>    
+         <p>Mojeek is a web search engine that provides unbiased, fast, and relevant search results combined with a no tracking privacy policy.</p>
+        <li><a href="https://presearch.com/">Presearch</a></li>
+         <p>Presearch is an open source decentralized search engine, powered by the community.</p>
         <li><a href="https://www.qwant.com/">Qwant</a></li>  
          <p>Qwant is a French search engine launched in February 2013. Qwant claims to guarantee the privacy of its users by avoiding tracking them.</p>
         <li><a href="https://searx.thegpm.org/">Searx</a></li> 
