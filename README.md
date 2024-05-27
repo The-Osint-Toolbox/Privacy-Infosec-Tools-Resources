@@ -129,9 +129,8 @@
          <p>Protect your identity with hide-my-email aliases in Proton Mail.</p>
         <li><a href="https://simplelogin.io/">Simple Login</a></li>
          <p>Receive and send emails anonymously.</p>
-       <br></br>       
-       </ul>
-         <table>
+       </ul>
+      <table>
         <tr>
         <td>Maps</td>
         </tr>
