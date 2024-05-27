@@ -110,7 +110,6 @@
         <li><a href="https://tutanota.com/">Tutanota</a></li> 
          <p>Tutanota is an end-to-end encrypted email app and a freemium secure email service.</p>
       </ul>
-      <br></br>
       <table>
         <tr>
         <td>Email Aliases</td>
