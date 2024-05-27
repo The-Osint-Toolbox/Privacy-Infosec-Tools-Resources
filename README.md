@@ -76,7 +76,7 @@
   <tr>
       <td>Digital Fingerprinting</td>
     </tr>
-</table
+<table>
       <ul>
          <li><a href="https://amiunique.org/">Amiunique</a></li>
          <li><a href="https://browserleaks.com/">BrowserLeaks</a></li>
@@ -85,9 +85,19 @@
          <li><a href="https://infosniper.net/">InfoSniper</a></li>
          <li><a href="https://z0ccc.github.io/LocateJS/">Locate JS</a></li>
          <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
-       </ul>        
-    <table>
-    <table>
+       </ul>
+</table>
+<table>
+   <tr>
+    <td>DNS</td>
+   </tr>
+</table>
+      <ul>
+          <li><a href="https://nextdns.io/">Next DNS</a></li>
+          <li><a href="https://safing.io/">Portmaster</a></li>
+      </ul>
+<br/>      
+      <table>
         <tr>
          <td>Email</td>
         </tr>
