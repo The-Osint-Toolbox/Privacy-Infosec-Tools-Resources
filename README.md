@@ -1,6 +1,6 @@
 # Privacy-Infosec-Tools-Resources
 <p align="center">
-      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+      <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
     </p>You can find links to Privacy & OPSEC tools and resources. Many I use or have used however this does not constitute any endorsment or recommendation.</p>
 <br></br>
 <table>
@@ -23,6 +23,8 @@
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
      <p>Check if your email or phone is in a data breach.</p>
+    <li><a href="https://kycnot.me/">KYC Not</a></li>
+      <p>Privacy orientated services.</p>
     <li><a href="https://www.lifewire.com/turn-on-mobile-location-services-4156232">Lifewire</a></li>
      <p>Basic intorduction into how location services work.</p> 
     <li><a href="https://locatejs.com/">Locate JS</a></li> 
