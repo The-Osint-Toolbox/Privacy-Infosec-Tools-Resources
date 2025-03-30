@@ -75,11 +75,11 @@
        <p>Open-source tests of web browser privacy.</p>
       <li><a href="https://www.torproject.org/">TOR</a></li> 
        <p>Tor, short for "The Onion Router," is free and open-source software for enabling anonymous communication. It directs Internet traffic worldwide.</p>
-    </ul>
       <li><a href="https://vivaldi.com/">Vivaldi</a></li>
         <p>Vivaldi is a privacy focused non Chromium browser</p>    
       <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
        <p>What Is My Browser, tells you what browser and version you have, the type of device you are using, which operating system you're using, and your settings for important things such as JavaScript and Cookies.</p>
+</ul>
 <table>
   <tr>
       <td>Digital Fingerprinting</td>
