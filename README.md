@@ -31,8 +31,6 @@
       <p>Privacy orientated services.</p>
     <li><a href="https://www.lifewire.com/turn-on-mobile-location-services-4156232">Lifewire</a></li>
      <p>Basic intorduction into how location services work.</p> 
-    <li><a href="https://locatejs.com/">Locate JS</a></li> 
-     <p>LocateJS predicts your location by analyzing your connection and system data.</p>
     <li><a href="https://foundation.mozilla.org/en/privacynotincluded/">Mozilla Foundation</a></li> 
      <p>Keep up to date with the latest privacy news and blogs.</p>
     <li><a href="https://offshore.cat/">OffshoreCAT</a></li>
