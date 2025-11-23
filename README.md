@@ -25,6 +25,8 @@
      <p>Your guide to securing your digital life and protecting your privacy.</p>
     <li><a href="https://exodus-privacy.eu.org/en/">Exodus</a></li> 
      <p>Exodus analyses Android applications. It looks for embedded trackers and lists them. </p>
+    <li><a href="https://eylenburg.github.io/android_comparison.htm">Eylenburg</a></li> 
+     <p>Comparison of Android-based Operating Systems.</p>
     <li><a href="https://haveibeenpwned.com/">Have I Been Pwned</a></li> 
      <p>Check if your email or phone is in a data breach.</p>
     <li><a href="https://kycnot.me/">KYC Not</a></li>
