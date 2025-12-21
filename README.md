@@ -95,7 +95,7 @@
          <li><a href="https://coveryourtracks.eff.org/">Cover Your Tracks</a></li>
          <li><a href="https://www.deviceinfo.me/">Device Info</a></li>
          <li><a href="https://infosniper.net/">InfoSniper</a></li>
-         <li><a href="https://z0ccc.github.io/LocateJS/">Locate JS</a></li>
+         <li><a href="https://www.myip.com/">MyIP</a></li>
          <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
        </ul>
 </table>
