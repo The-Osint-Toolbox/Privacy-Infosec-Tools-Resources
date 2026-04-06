@@ -131,6 +131,8 @@
        <ul>
         <li><a href="https://www.33mail.com/">33 Mail</a></li>
          <p>Unlimited private email aliases.</p>
+        <li><a href="https://anon.li/alias">anon.li Alias</a></li>
+         <p>Privacy friendly email aliasing, with <b>free</b> PGP encryption and reply support.</p>
         <li><a href="https://anonaddy.com/">Anon Addy</a></li>
          <p>Anonymous Email forwarding, create unlimited Email aliases for free.</p>
         <li><a href="https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/">DuckDuckGo</a></li>
