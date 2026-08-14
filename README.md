@@ -227,5 +227,6 @@
        <li><a href="https://foundation.mozilla.org/en/privacynotincluded/categories/cars/">Mozilla Foundation</a></li>
          <p>Manufacturers privacy practice reviews.</p>
        <li><a href="https://foundation.mozilla.org/en/privacynotincluded/articles/what-data-does-my-car-collect-about-me-and-where-does-it-go/">Mozilla Foundation</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
          <p>What does a vehicle collect about and what happens to your data.</p>
      </ul>
