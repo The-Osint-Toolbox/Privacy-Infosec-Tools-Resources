@@ -45,6 +45,8 @@
      <p>Surveillance Watch is an interactive map revealing the intricate connections between surveillance companies, their funding sources and affiliations.</p>
     <li><a href="https://tosdr.org/">Terms Of Service</a></li> 
      <p>Did you read and agree to the TOS of a website, check out their TOS here, if you didn't.</p>
+    <li><a href="https://utilshut.com/tools/exif-remover/">Utilshut EXIF Remover</a></li>
+     <p>Strip GPS, device, timestamp and thumbnail metadata from a photo before you share it. Runs in the browser, the image is not uploaded.</p>
     <li><a href="https://vehicleprivacyreport.com/">Vehicle Privacy Report</a></li>
      <p>Get privacy car facts about your vehicle by searching your VIN.</p>
     <li><a href="https://www.yubico.com/">Yubikey</a></li> 
