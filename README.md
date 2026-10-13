@@ -178,6 +178,8 @@
          <p>Threema is a paid cross-platform encrypted instant messaging app developed by Threema GmbH in Switzerland.</p>
         <li><a href="https://wire.com/en/">Wire</a></li> 
          <p>Wire is an encrypted communication and collaboration app created by Wire Swiss.</p>
+        <li><a href="https://xchat.directory/">XChat Directory</a></li>
+         <p>Independent comparisons and reviews of encrypted messengers such as Signal, Threema, Session and Wire.</p>
       </ul>
       <br></br>
       <table>
