@@ -47,6 +47,8 @@
      <p>Did you read and agree to the TOS of a website, check out their TOS here, if you didn't.</p>
     <li><a href="https://vehicleprivacyreport.com/">Vehicle Privacy Report</a></li>
      <p>Get privacy car facts about your vehicle by searching your VIN.</p>
+    <li><a href="https://xmrlist.com/">XMRList</a></li>
+     <p>Hand-reviewed directory of businesses that accept Monero, with user reviews and scam warnings.</p>
     <li><a href="https://www.yubico.com/">Yubikey</a></li> 
      <p>Yubico’s phishing-resistant, multi-factor (MFA) solutions stop account takeovers for the world’s largest organizations.</p>
 </ul>
