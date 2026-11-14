@@ -92,6 +92,7 @@
       <ul>
          <li><a href="https://amiunique.org/">Amiunique</a></li>
          <li><a href="https://browserleaks.com/">BrowserLeaks</a></li>
+         <li><a href="https://demo.shieldlabs.ai/anonymity-checker">ShieldLabs Anonymity Checker</a></li>
          <li><a href="https://coveryourtracks.eff.org/">Cover Your Tracks</a></li>
          <li><a href="https://www.deviceinfo.me/">Device Info</a></li>
          <li><a href="https://infosniper.net/">InfoSniper</a></li>
