@@ -98,6 +98,7 @@
          <li><a href="https://www.myip.com/">MyIP</a></li>
          <li><a href="https://www.whatismybrowser.com/">What Is My Browser</a></li>
          <li><a href="https://demo.shieldlabs.ai/anonymity-checker">ShieldLabs Anonymity Checker</a></li>
+         <li><a href="https://vibe-checker.appwrite.network/">VibeShield Security Headers &amp; JS Secret Scanner</a></li>
        </ul>
 </table>
 <table>
